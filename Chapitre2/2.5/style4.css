@@ -1,0 +1,109 @@
+h1{
+    font-family: Arial;
+    font-size: 20px;
+    color: red;
+    background-color: #ded557;
+    text-align: center;
+}
+h2{
+    font-family: Arial;
+    font-size: 16px;
+    color: violet;
+    text-align: center;
+    line-height: 20px;
+
+}
+h3{
+    font-family: Arial;
+    font-size: 16px;
+    color: violet;
+    text-align: center;
+    line-height: 20px;
+}
+.Paragraphe1{
+    font-family: Arial;
+    text-indent : 20px;
+    margin-top:25px;
+    margin-bottom:20px;
+
+}
+.Paragraphe2{
+    font-family: Arial;
+    text-indent : 20px;
+    margin-top:25px;
+    margin-bottom:20px;
+}
+h4{
+    font-family: Arial;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+}
+h5{
+    font-family: Arial;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+}
+h6{
+    font-family: Arial;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+}
+.Paragraphe3{
+    font-family: "Times New Roman";
+    font-size: 12px;
+    font-style: italic;
+    margin-top:10px;
+    margin-bottom:20px
+
+
+}
+ul{
+    text-decoration: underline;
+    font-size: 13px;
+    line-height:12px;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.Paragraphe4{
+    font-family: Arial;
+    font-style: italic;
+    line-height:12px;
+    margin-top:10px;
+    margin-bottom:20px;
+
+}
+.Paragraphe5{
+    margin-top:10px;
+    margin-bottom:20px;
+    color: lightblue;
+}
+.Paragraphe6{
+    margin-top:10px;
+    margin-bottom:20px;
+    color: lightblue;
+}
+.titre1:hover{
+    color: green;
+    text-decoration: underline;
+}
+.Paragraphe6:hover{
+    font-style: italic;
+}
+.Paragraphe5:hover{
+    font-style: italic;
+}
+.Paragraphe3:hover{
+    font-style: italic;
+}
+.Paragraphe2:hover{
+    font-style: italic;
+}
+.Paragraphe1:hover{
+    font-style: italic;
+}
+.P7:hover{
+    font-style: italic;
+}

@@ -1,0 +1,14 @@
+
+body {
+    color:#FFF;
+    background-color:#784;
+    background-image:url(2.3/pingouin.png),url(2.3/feuilles.png);
+    background-repeat:no-repeat, repeat;
+    background-size:auto 60%,auto;
+    background-position:center 0,0,0;
+    background-attachment:fixed,scroll;
+    font-size:25px;
+}
+h1 {
+    color:#80F;
+}

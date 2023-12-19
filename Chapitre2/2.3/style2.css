@@ -1,0 +1,30 @@
+body {
+    color:#FFF;
+    background-color:#784;
+    background-image:url(2.3/feuilles.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position:center center,;
+    background-attachment:fixed;
+    font-size:25px;
+}
+h1 {
+    color:#80F;
+}
+
+article {
+    margin:2em;
+    color:#004;
+    background-color:#F00;
+    background-image:url(2.3/pingouin.png);
+    background-repeat:no-repeat;
+    background-size:30%;
+    background-position:center center;
+    background-attachment:scroll;
+    opacity:0.5;
+}
+
+section {
+    background-color:hsla(10, 50%, 60%, 0.8);
+}
+h1 {color:#80F;}
