@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Alexis Guillaume - Portfolio</title>
+
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="accueil.html">Accueil</a></li>
+        <li><a href="CV ALEXIS GUILLAUME BTS.pdf">CV</a></li>
+        <li><a href="certification.html">Certification</a></li>
+        <li><a href="projets.html">Projets</a></li>
+        <li><a href="veille.html">Veille Technologique</a></li>
+        <li><a href="experiences.html">Expériences</a></li>
+        <li><a href="passions.html">Passions</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+
+
+
+<body>
+<div class="accueil">
+    <a>Bienvenue sur mon portfolio</a>
+</div>
+
+
+
+</body>
+
+
+
+<footer>
+
+    <p> E-mail :galexguillaume97@gmail.com</p>
+    <p><link>Git :https://github.com/alexisguillaume97</link></p>
+    <p>Tel :07 68 06 46 56</p>
+</footer>
